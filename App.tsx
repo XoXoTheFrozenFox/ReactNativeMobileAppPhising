@@ -147,21 +147,19 @@ const styles = StyleSheet.create({
   },
   userMessage: {
     backgroundColor: '#c72c41',
-    alignSelf: 'flex-start',
-    borderTopLeftRadius: 10,
+    alignSelf: 'flex-end', // Change to align on the right side
+    borderTopRightRadius: 10, // Change top-right corner to match the bubble shape on the right
     borderBottomLeftRadius: 10,
     borderBottomRightRadius: 10,
   },
   gptMessage: {
     backgroundColor: '#ee4540',
-    alignSelf: 'flex-end',
-    borderTopRightRadius: 10,
+    alignSelf: 'flex-start', // Change to align on the left side
+    borderTopLeftRadius: 10,  // Change top-left corner to match the bubble shape on the left
     borderBottomLeftRadius: 10,
     borderBottomRightRadius: 10,
-    // Adjust the bottom radius for the button above the breakpoint
-    borderBottomWidth: 3, // Make the border slightly visible
-    borderBottomColor: '#2d142c', // Match background color for blending
   },
+
   messageText: {
     color: '#FFFFFF',
   },
