@@ -15,7 +15,7 @@
 </div>
 <h3 align="center">Screenshot 3</h3>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/cfc337d2-3021-418d-822b-c2d125802c77" alt="Image" />
+<img src="https://github.com/user-attachments/assets/592e1fa5-e257-42b9-a7e7-96d85fccb9cd" alt="Image" />
 </div>
 <h2 align="center">⚒️ Technologies used ⚒️</h2>
 <br/>
