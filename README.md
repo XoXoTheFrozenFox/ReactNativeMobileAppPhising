@@ -1,5 +1,5 @@
 
-<h1 align="center">Gemini React Native phising message detection</h1>
+<h1 align="center">Gemini React Native phising message detection📱</h1>
 <h2 align="center">Description</h2>
 <div align="center">
     Message requests are formatted so that only phising messages analysis can be done.
