@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "PhisingDetect",
+    "sdkversion": "6.3.12",
+    "slug": "GeminiAPIApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/_ac13f088-29a3-4ec7-9013-3d34fc21db91.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/_ac13f088-29a3-4ec7-9013-3d34fc21db91.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#b51d36"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/_ac13f088-29a3-4ec7-9013-3d34fc21db91.jpg",
+        "backgroundColor": "#b51d36"
+      },
+      "package": "com.anonymous.GeminiAPIApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
